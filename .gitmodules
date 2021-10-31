@@ -1,0 +1,3 @@
+[submodule "Lambda"]
+	path = Lambda
+	url = git@github.com:KirSanich/Lambda.git
