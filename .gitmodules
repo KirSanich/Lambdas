@@ -1,3 +1,6 @@
 [submodule "Lambda"]
 	path = Lambda
 	url = git@github.com:KirSanich/Lambda.git
+[submodule "MethodReference"]
+	path = MethodReference
+	url = git@github.com:KirSanich/MethodReference.git
