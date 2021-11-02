@@ -4,3 +4,6 @@
 [submodule "MethodReference"]
 	path = MethodReference
 	url = git@github.com:KirSanich/MethodReference.git
+[submodule "StandartFunctionalInterfaces"]
+	path = StandartFunctionalInterfaces
+	url = git@github.com:KirSanich/StandartFunctionalInterfaces.git
